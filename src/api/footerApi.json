@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Ghaziabad, Uttar Pradesh"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "8707XXXXXX"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "atishay@worldatlas.com"
+    }
+  ]
