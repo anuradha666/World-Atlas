@@ -41,7 +41,7 @@ export const Footers = () => {
               <p>
                 Copyright &copy; 2024, All Right Reserved
                 <NavLink to="#" target="_blank">
-                  Atishay
+                  Anuradha
                 </NavLink>
               </p>
             </div>
